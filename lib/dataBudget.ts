@@ -1,0 +1,58 @@
+// Exemple de données pour mapper les cartes
+export const dataBudgets = [
+    {
+      id: "1",
+      name: "Courses",
+      amount: 500,
+      userId: "user123",
+      emoji: "🛒",
+      transactions: [],
+      createdAt: new Date(),
+    },
+    {
+      id: "2",
+      name: "Loisirs",
+      amount: 300,
+      userId: "user123",
+      emoji: "🎮",
+      transactions: [],
+      createdAt: new Date(),
+    },
+    {
+      id: "3",
+      name: "Transport",
+      amount: 200,
+      userId: "user123",
+      emoji: "🚗",
+      transactions: [],
+      createdAt: new Date(),
+    },
+    {
+      id: "4",
+      name: "Santé",
+      amount: 150,
+      userId: "user123",
+      emoji: "⚕️",
+      transactions: [],
+      createdAt: new Date(),
+    },
+    {
+      id: "5",
+      name: "Épargne",
+      amount: 1000,
+      userId: "user123",
+      emoji: "💰",
+      transactions: [],
+      createdAt: new Date(),
+    },
+    {
+      id: "6",
+      name: "Abonnements",
+      amount: 100,
+      userId: "user123",
+      emoji: "📺",
+      transactions: [],
+      createdAt: new Date(),
+    },
+  ];
+  
