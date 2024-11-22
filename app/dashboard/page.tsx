@@ -113,7 +113,7 @@ const page = () => {
           <div className="flex justify-between items-center">
             <div className="flex flex-col">
               <h3 className="text-lg text-gray-500 mb-2">Budgets Atteints</h3>
-              <p className="text-accent font-bold text-xl">2/6</p>
+              <p className="text-accent font-bold text-xl">1/6</p>
             </div>
             <div>
               <div className="rounded-full bg-accent flex items-center justify-center w-12 h-12">
